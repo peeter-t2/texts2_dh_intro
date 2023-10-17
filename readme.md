@@ -15,7 +15,7 @@ To participate in the workshop you need to first install the following software.
 2) Install RStudio: https://www.rstudio.com/products/rstudio/download/
 
 ## Downloading the files
-1) Click on the download .zip link in the top right green button, or follow this link: https://github.com/peeter-t2/texts2_dh_intro/archive/master.zip
+1) Click on the download .zip link in the top right green button, or follow this link: https://github.com/peeter-t2/texts2_dh_intro/archive/main.zip
 2) Unpack the files where you want them.
 
 
